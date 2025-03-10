@@ -1,4 +1,4 @@
-#AI-BASED RECOMMENDATION SYSTEM
+# AI-BASED RECOMMENDATION SYSTEM
 
 *COMPANY*: CODETECH IT SOLUTIONS
 
@@ -11,6 +11,7 @@
 *DURATION*: 4 WEEKS
 
 *MENTOR*: NEELA SANTOSH
+
 This project is a User-Based Recommendation System built using Apache Mahout, a machine learning library for collaborative filtering. It consists of two main components:
 
 1. A CSV Dataset (user_preferences.csv) – This file contains user ratings for different items.
@@ -61,4 +62,8 @@ Automatic learning – As new data is added, recommendations get better over tim
 
 
 This recommendation engine can be used in e-commerce platforms, movie streaming services, and online learning portals to suggest relevant products, movies, or courses based on user behavior.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/99b7f3bf-5fcf-4d84-8961-427a51c2de0f)
 
